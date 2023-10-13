@@ -23,7 +23,7 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<Homepage />} />
+				<Route path="/react-gh-pages" element={<Homepage />} />
 				<Route path="/about" element={<About />} />
 				<Route path="/resume" element={<Resume />} />
 				<Route path="/articles" element={<Articles />} />
