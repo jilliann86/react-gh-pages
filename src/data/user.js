@@ -28,7 +28,7 @@ const INFO = {
 	articles: {
 		title: "What's got me interested?",
 		description:
-			"Some of my recent inquiries and ideas",
+			"What's piqued my interest recently.",
 	},
 
 	projects: [
