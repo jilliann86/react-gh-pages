@@ -3,7 +3,7 @@ const INFO = {
 		title: "Jillian Nylund",
 		name: "Jillian Nylund",
 		email: "jnylund2@illinois.edu",
-		logo: "../logo.png",
+		logo: "https://raw.githubusercontent.com/jilliann86/pictures/main/logo.png",
 	},
 
 	socials: {
